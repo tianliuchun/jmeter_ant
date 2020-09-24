@@ -51,7 +51,7 @@
 			  out="${jmeter.result.htmlName}" 
 			  
 		
-			  style="D:/standard-catalog/xsl/jmeter.results.shanhe.me.xsl">
+			  style="D:\jmeter\standard-catalog\xsl\jmeter.results.shanhe.me.xsl">
 			  <!--（5）样式目录：/extras/xxx.xsl -->
  
 			  
